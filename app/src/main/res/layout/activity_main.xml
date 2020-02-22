@@ -36,6 +36,7 @@
         android:contentDescription="Kirjoita"
         android:ems="10"
         android:inputType="textPersonName"
+        android:imeOptions="actionSend"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
